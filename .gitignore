@@ -1,0 +1,12 @@
+/nenv
+*.env
+*.pyc
+*.class
+# Ignore Python virtual environment
+venv/
+
+# Ignore FAISS index folder
+faiss_index/
+
+# Ignore compiled Python files
+*.pyc
